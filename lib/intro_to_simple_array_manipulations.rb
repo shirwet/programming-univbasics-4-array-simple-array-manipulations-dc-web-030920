@@ -59,6 +59,6 @@ end
 def using_delete_at (array, Integer)
   
   famous_robots = ["Johnny 5", "R2D2", "Robocop"]
-  array.delete.at (2)
+  array.delete_at (2)
 
 end
