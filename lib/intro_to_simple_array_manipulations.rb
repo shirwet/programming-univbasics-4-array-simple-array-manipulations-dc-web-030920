@@ -58,7 +58,7 @@ end
 
 def using_delete_at (array, Integer)
   
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  famous_robots = ["Johnny 5", "R2D2", "Robocop"]
   array.delete ("Steven")
 
 end
